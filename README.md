@@ -13,7 +13,7 @@ The dataset are generated randomly by the [gen_data.py](https://github.com/Suyi3
 
 2. raw_data_same_gender.csv: This dataset is used to predict the call time of a user when he or she is going to chat with a person of same gender.
 
-The first 7 columns in each dataset are features selected to make prediction. These features are selected according to the [a paper](https://github.com/Suyi32/Stagewise-Regression-Demo/blob/master/Reference%20Paper/duration.pdf) and the experience. 
+The first 7 columns in each dataset are features selected to make prediction. These features are selected according to the [a paper](https://github.com/Suyi32/Stagewise-Regression-Demo/blob/master/Reference%20Paper/duration.pdf) and the experience. The last column is the actual call time generate by human.
 
 The selected features are: call_time_same_sex, call_time_diff_sex, quality_internet, time, if_new_friend, Credit, age_diff, language_fluence.
 
