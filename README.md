@@ -1,5 +1,5 @@
 # Stagewise-Regression-Demo
-A demo of forward stagewise regression
+A demo of forward stagewise regression.
 
 Introduction
 ---
