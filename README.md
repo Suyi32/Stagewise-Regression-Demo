@@ -7,6 +7,8 @@ This is a basic demo of forward stagewise regression. The model is used to predi
 
 Dataset
 ---
+The dataset are generated randomly by the [gen_data.py](https://github.com/Suyi32/Stagewise-Regression-Demo/blob/master/Data%20Generation/gen_data.py)
+
 1. raw_data_diff_gender.csv: This dataset is used to predict the call time of a user when he or she is going to chat with a person of different gender.
 
 2. raw_data_same_gender.csv: This dataset is used to predict the call time of a user when he or she is going to chat with a person of same gender.
